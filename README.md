@@ -1,4 +1,3 @@
-# Namrata Singh | Data Analyst 📊
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 > “Without data, you're just another person with an opinion.” – W. Edwards Deming
 
