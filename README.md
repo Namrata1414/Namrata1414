@@ -8,12 +8,6 @@
 - 🌱 Skilled in data automation, visualization, and ETL with 3+ years of experience  
 - 💬 Ask me about Python, SQL, Power BI, Data Cleaning, and Supply Chain Analytics  
 - 📫 Reach me at: namratachinu1411@gmail.com  
-
----
-
-## Skills
-
-Python | SQL | Power BI | Excel | Advanced Excel | Pandas | NumPy | Salesforce CRM | Jupyter Notebook | Git
 <!--
 **NamrataSingh/NamrataSingh** is a special repository because its README.md appears on your GitHub profile.
 -->
